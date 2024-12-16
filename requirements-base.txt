@@ -401,6 +401,8 @@ typing-extensions==4.3.0
     # via
     #   pydantic
     #   schemathesis
+    #   starlette
+    #   uvicorn
 uritemplate==4.1.1
     # via google-api-python-client
 urllib3==1.26.11
@@ -408,7 +410,7 @@ urllib3==1.26.11
     #   pdpyras
     #   requests
     #   sentry-sdk
-uvicorn==0.18.2
+uvicorn==0.34.0
     # via -r requirements-base.in
 validators==0.18.2
     # via -r requirements-base.in
