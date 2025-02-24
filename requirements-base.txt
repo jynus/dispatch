@@ -340,7 +340,7 @@ six==1.16.0
     #   python-multipart
     #   sqlalchemy-filters
     #   validators
-slack-sdk==3.18.1
+slack-sdk==3.34.0
     # via -r requirements-base.in
 smart-open==5.2.1
     # via pathy
@@ -401,6 +401,7 @@ typing-extensions==4.3.0
     # via
     #   pydantic
     #   schemathesis
+    #   starlette
 uritemplate==4.1.1
     # via google-api-python-client
 urllib3==1.26.11
